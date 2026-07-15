@@ -1,9 +1,10 @@
 # python
 
 voices
+
 https://drive.google.com/file/d/1tL_VuoSbA0CsMYhcIZlNl-V4Bp8E8kOz/view?usp=sharing
 
-
+drawing
 https://drive.google.com/file/d/1JeJ9VVommMxeIIqJtqx6NoNWTQJKy0wl/view?usp=drive_link
 
 # html
