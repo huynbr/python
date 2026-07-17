@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1tL_VuoSbA0CsMYhcIZlNl-V4Bp8E8kOz/view?usp=shari
 
 drawing
 
-https://drive.google.com/file/d/1JeJ9VVommMxeIIqJtqx6NoNWTQJKy0wl/view?usp=drive_link
+https://drive.google.com/file/d/1JeJ9VVommMxeIIqJtqx6NoNWTQJKy0wl/view?usp=sharing
 
 # html
 
